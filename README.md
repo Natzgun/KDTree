@@ -1,4 +1,4 @@
-# Point Quadtree
+# KDTree
 
 Based in the invention of Jon Bentley in 1970s, this project is a implementation in C++ with SFML separating logic into two classes (Kdtree and SFML renderer).
 The finally of this project is learn of KdTree and SFML library.
