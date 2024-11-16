@@ -5,5 +5,5 @@ The finally of this project is learn of KdTree and SFML library.
 ![Point Quadtree](./screenshots/kdsfml.png)
 
 ## REFERENCES
-[CMU Kdtree](https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/kdtrees.pdf)
-[Geeks for Geels Kdtree insertion and search](https://www.geeksforgeeks.org/search-and-insertion-in-k-dimensional-tree/)
+- [CMU Kdtree](https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/kdtrees.pdf)
+- [Geeks for Geels Kdtree insertion and search](https://www.geeksforgeeks.org/search-and-insertion-in-k-dimensional-tree/)
